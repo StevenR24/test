@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Steven\BCA\SYBCA\Semester 2\Case Tools lab\test assignment\.metadata\.plugins\org.eclipse.jdt.core
+3271193799.index
+1865797976.index
+3954237640.index
